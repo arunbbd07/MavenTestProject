@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+      <class name="com.arun.testng.AnnotationsDetailed">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.arun.testng.AnnotationsDetailed@3aeaafa6]" name="beforeSuite" is-config="true" duration-ms="15" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.arun.testng.AnnotationsDetailed@3aeaafa6]" name="beforeTest" is-config="true" duration-ms="1" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.arun.testng.AnnotationsDetailed@3aeaafa6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.arun.testng.AnnotationsDetailed@3aeaafa6]" name="test2" duration-ms="8" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.arun.testng.AnnotationsDetailed@3aeaafa6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:com.arun.testng.AnnotationsDetailed@3aeaafa6]" name="test1" duration-ms="2" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.arun.testng.AnnotationsDetailed@3aeaafa6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.arun.testng.AnnotationsDetailed@3aeaafa6]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.arun.testng.AnnotationsDetailed@3aeaafa6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.arun.testng.AnnotationsDetailed@3aeaafa6]" name="afterSuite" is-config="true" duration-ms="1" started-at="2019-02-07T16:02:56Z" finished-at="2019-02-07T16:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.arun.testng.AnnotationsDetailed -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
