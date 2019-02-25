@@ -13,12 +13,10 @@ public class RegexExamples {
 
 	}
 	
-	void toGetNumber( String str)
-	{
-		Pattern p=Pattern.compile("\\d+");
-		Matcher m=p.matcher(str);
-		while(m.find())
-		{
+	void toGetNumber(String str) {
+		Pattern p = Pattern.compile("\\d+");
+		Matcher m = p.matcher(str);
+		while (m.find()) {
 			System.out.println(m.group());
 		}
 	}
